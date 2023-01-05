@@ -1,0 +1,20 @@
+1.How will you tackle the challenge above?
+
+answer : 
+Step 1 - Inserted data with comma(,) seperated and saved with .csv extension
+
+Step 2 : Read the data using BufferReader
+
+Step 3 : Converted the data into an array and passing as a parameter of Implemented method
+
+
+2.What type of errors you would you check for?
+
+answer : If we provide wrong path of file Inside FileReader then it will give us file not found Exception.
+
+
+3.How might a user break your code?
+
+i - if some other exception occurs that is not handled in my application then my code might break.
+
+ii - If we provide wrong location then my code will not be executed
